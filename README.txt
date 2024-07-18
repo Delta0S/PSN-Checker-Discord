@@ -1,5 +1,7 @@
 # Project README
 
+Join https://discord.com/invite/ZRhBmgvrcZ to see how it works
+
 ## Important Information
 
 Welcome to our project! This guide will help you set up and run the bot smoothly. Please follow the instructions below.
